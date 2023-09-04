@@ -15,6 +15,9 @@ GameListHub é uma plataforma dedicada a entusiastas de jogos, permitindo que el
   <span>
     <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
   </span>
+  <span>
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  </span>
 </div>
 <span>
 
