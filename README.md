@@ -39,4 +39,5 @@ GameListHub é uma plataforma dedicada a entusiastas de jogos, permitindo que el
 
 - [Wiki](https://github.com/Sans-arch/gamehub/wiki) - Link da Wiki do projeto
 - [Backend](https://github.com/Sans-arch/gamehub-backend) - Link do repositório do back-end
+- [Frontend](https://github.com/Sans-arch/gamehub-frontend) - Link do repositório do front-end
 - [Trello](https://trello.com/b/nTOfUouD/tcc-portf%C3%B3lio) - Link do Trello
