@@ -1,8 +1,8 @@
-<h1 style="text-align:center">GameHub - Sua central de Jogos</h1>
-
 <p align="center">
   <img src="https://github.com/Sans-arch/gamehub/assets/69471715/19258876-f200-4d12-b98a-71540a8ec0d9" alt="Sublime's custom image"/>
 </p>
+
+<h1 style="text-align:center">GameHub - Sua central de Jogos</h1>
 
 Bem-vindo ao GameHub, sua plataforma definitiva para uma experiência de jogo aprimorada. GameHub é uma comunidade vibrante e uma ferramenta de gerenciamento de jogos projetada para entusiastas de jogos de todas as plataformas. Se você é um jogador ávido em busca de novos títulos, um crítico de jogos apaixonado ou alguém que simplesmente adora compartilhar experiências, o GameHub é o seu lugar.
 
