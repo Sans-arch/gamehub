@@ -40,6 +40,8 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
 **Back-end:** Node, Express
 
+**Banco de dados:** Postgres 
+
 **Virtualização:** Docker
 
 
