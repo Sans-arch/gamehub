@@ -21,11 +21,10 @@
 Bem-vindo ao GameHub, sua plataforma definitiva para uma experiência de jogo aprimorada. GameHub é uma comunidade vibrante e uma ferramenta de gerenciamento de jogos projetada para entusiastas de jogos de todas as plataformas. Se você é um jogador ávido em busca de novos títulos, um crítico de jogos apaixonado ou alguém que simplesmente adora compartilhar experiências, o GameHub é o seu lugar.
 
 ## Por que o GameHub?
-* Organize Sua Coleção: Mantenha o controle de todos os seus jogos em um único lugar. Crie listas personalizadas para organizar seus jogos por gênero, plataforma ou qualquer critério que você escolher.
-* Avalie e Comente: Deixe sua marca na comunidade. Avalie jogos, escreva avaliações detalhadas e compartilhe suas opiniões com outros jogadores. Sua voz é importante!
-* Descubra Novos Títulos: Explore jogos recomendados com base em avaliações da comunidade. Descubra gemas ocultas e encontre jogos que realmente correspondam aos seus interesses.
-* Conecte-se com Outros Jogadores: Interaja com outros membros da comunidade. Comente sobre jogos, compartilhe dicas e faça novos amigos com interesses semelhantes.
-* Integração com Contas Existentes: Faça login facilmente com suas contas do Google, Facebook ou GitHub para começar a usar o GameHub rapidamente.
+* **Organize Sua Coleção:** Mantenha o controle de todos os seus jogos em um único lugar. Crie listas personalizadas para organizar seus jogos por gênero, plataforma ou qualquer critério que você escolher.
+* **Avalie e Comente:** Deixe sua marca na comunidade. Avalie jogos, escreva avaliações detalhadas e compartilhe suas opiniões com outros jogadores. Sua voz é importante!
+* **Descubra Novos Títulos:** Explore jogos recomendados com base em avaliações da comunidade. Descubra gemas ocultas e encontre jogos que realmente correspondam aos seus interesses.
+* **Integração com Contas Existentes:** Faça login facilmente com suas contas do Google, Facebook ou GitHub para começar a usar o GameHub rapidamente.
 
 ## Autores
 
