@@ -30,6 +30,10 @@ Bem-vindo ao GameHub, sua plataforma definitiva para uma experiência de jogo ap
 
 - [@Sans-arch](https://github.com/Sans-arch)
 
+## Licença
+
+Este projeto está licenciado sob a [Licença MIT](LICENSE).
+
 
 ## Stack utilizada
 
