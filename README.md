@@ -46,6 +46,11 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 * **Virtualização:** Docker
 * **Cloud:** AWS
 
+## Serviços utilizados:
+- AWS S3
+- AWS CloudFront
+- AWS Route53
+- AWS EC2
 
 ## Links
 
