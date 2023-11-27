@@ -24,9 +24,6 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 ## Stack utilizada
 <div>
   <span>
-    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  </span>
-  <span>
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
   </span>
   <span>
@@ -38,15 +35,16 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
   <span>
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
   </span>
+  <span>
+    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  </span>
 </div>
 
-**Front-end:** React, NextJS
-
-**Back-end:** Node, Express
-
-**Banco de dados:** Postgres 
-
-**Virtualização:** Docker
+* **Front-end:** React
+* **Back-end:** Node, Express
+* **Banco de dados:** Postgres 
+* **Virtualização:** Docker
+* **Cloud:** AWS
 
 
 ## Links
